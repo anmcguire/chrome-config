@@ -1,0 +1,6 @@
+*.amazon.com
+*.chase.com
+*.facebook.com
+*.google.com
+*.lastpass.com
+*.pretome.info
